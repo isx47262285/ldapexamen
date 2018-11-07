@@ -1,0 +1,18 @@
+dn: dc=roberto,dc=cat
+dc: roberto
+description: web roberto altamirano
+objectClass: dcObject
+objectClass: organization
+o: roberto.cat
+
+dn: ou=socis,dc=roberto,dc=cat
+ou: socis
+description: container per a socis linux
+objectclass: organizationalunit
+
+dn: ou=simpatitzants,dc=roberto,dc=cat
+ou: simpatitzants
+description: Container per a simpatitzants linux
+objectclass: organizationalunit
+
+

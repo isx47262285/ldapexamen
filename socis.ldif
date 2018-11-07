@@ -1,0 +1,36 @@
+dn: cn=Pere Pou,ou=socis,dc=roberto,dc=cat
+objectclass: indepeOrgPerson
+objectclass: inetOrgPerson
+cn: Pere Pou
+sn: Pou
+homephone: 555-222-2221
+mail: pere@edt.org
+description: Watch out for this guy
+ou: socis
+idcat: 1
+userPassword: {SSHA}ghmtRL11YtXoUhIP7z6f7nb8RCNadFe+
+
+dn: cn=Anna Pou,ou=socis,dc=roberto,dc=cat
+objectclass: indepeOrgPerson
+objectclass: inetOrgPerson
+cn: Anna Pou
+sn: Pou
+homephone: 555-222-2222
+mail: anna@edt.org
+description: Watch out for this girl
+ou: socis
+idcat: 2
+userPassword: {SSHA}Bm4B3Bu/fuH6Bby9lgxfFAwLYrK0RbOq
+
+dn: cn=Pau Pou,ou=socis,dc=roberto,dc=org
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+cn: Pau Pou
+sn: Pou
+homephone: 555-222-2220
+mail: pau@edt.org
+description: Watch out for this guy
+ou: socis
+idcat: 3
+userPassword: {SSHA}NDkipesNQqTFDgGJfyraLz/csZAIlk2/
+
